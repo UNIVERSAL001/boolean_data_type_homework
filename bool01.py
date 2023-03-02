@@ -9,3 +9,6 @@ def main(a,b):
     """
     # Write your code here
     return a==b
+
+
+print(main(12,12))
