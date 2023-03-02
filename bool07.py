@@ -1,6 +1,6 @@
 def main(a,b):
     """
-    check the following statement "They are not equal"
+    check the following statement "They are not equal" 
     Args:
         a: int
         b: int
@@ -9,3 +9,6 @@ def main(a,b):
     """
     # Write your code here
     return a!=b
+
+
+print(main(12,12))
